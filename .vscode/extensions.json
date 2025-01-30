@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-vsliveshare.vsliveshare",
+    "blackgirlbytes.deploy-to-github-pages",
+    "streetsidesoftware.code-spell-checker",
+    "dzhavat.bracket-pair-toggler",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker-dutch",
+    "htmlhint.vscode-htmlhint",
+    "zignd.html-css-class-completion",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "christian-kohler.path-intellisense",
+    "stylelint.vscode-stylelint"
+  ]
+}
